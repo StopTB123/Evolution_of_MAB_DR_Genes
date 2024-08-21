@@ -1,0 +1,1 @@
+fastANI --ql MAB_scaffolds.txt -r M.abscessus.fna -o M.abscessus.ANI.txt 

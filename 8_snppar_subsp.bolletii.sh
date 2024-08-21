@@ -1,0 +1,1 @@
+snppar -m all_strains.fadel-InvMisF5.bak.fa -l all_strains.fadel-InvMisF5.bak.loc -t MAB.3.tree -g 8_subsp.bolletii.gbff
